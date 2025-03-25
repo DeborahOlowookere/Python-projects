@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [Email Inbox management system](https://github.com/DeborahOlowookere/Email-Management-System/blob/main/email.py)
+  - [Email Inbox management system](https://github.com/DeborahOlowookere/Email-Management-System)
   -  [Task Manager](https://github.com/DeborahOlowookere/Task-Manager)
   -  [Automated File Backup](https://github.com/DeborahOlowookere/Automated-File-Backup)
 <h2> 🤳 Connect with me:</h2>
