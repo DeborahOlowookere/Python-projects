@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Email Inbox management system](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  -  [Task Manager](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -  [Task Manager](https://github.com/DeborahOlowookere/Task-Manager)
   -  [Automated File Backup](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2> 🤳 Connect with me:</h2>
 
