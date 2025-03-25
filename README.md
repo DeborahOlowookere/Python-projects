@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Email Inbox management system](https://github.com/DeborahOlowookere/Email-Management-System/blob/main/email.py)
   -  [Task Manager](https://github.com/DeborahOlowookere/Task-Manager)
-  -  [Automated File Backup](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -  [Automated File Backup](https://github.com/DeborahOlowookere/Automated-File-Backup)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
