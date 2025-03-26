@@ -6,7 +6,7 @@
 - <b>Python</b>
   -  [Dice Rolling Game](https://github.com/DeborahOlowookere/Dice-Rolling-Game)
   -  [Number Guessing Game](https://github.com/DeborahOlowookere/Number-Guessing-Game)
-  -  [Rock, paper scissors Game](https://github.com/DeborahOlowookere/Number-Guessing-Game)
+  -  [Rock, paper scissors Game](https://github.com/DeborahOlowookere/rock-paper-scissors-game/tree/main)
   - [Email Inbox management system](https://github.com/DeborahOlowookere/Email-Management-System)
   -  [Task Manager](https://github.com/DeborahOlowookere/Task-Manager)
   -  [Automated File Backup](https://github.com/DeborahOlowookere/Automated-File-Backup)
