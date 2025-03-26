@@ -4,7 +4,7 @@
 
 
 - <b>Python</b>
-  -  [Dice Rolling Game](https://github.com/DeborahOlowookere/Automated-File-Backup)
+  -  [Dice Rolling Game](https://github.com/DeborahOlowookere/Dice-Rolling-Game)
   -  [Number Guessing Game](https://github.com/DeborahOlowookere/Automated-File-Backup)
   - [Email Inbox management system](https://github.com/DeborahOlowookere/Email-Management-System)
   -  [Task Manager](https://github.com/DeborahOlowookere/Task-Manager)
